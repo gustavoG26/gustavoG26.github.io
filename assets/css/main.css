@@ -3578,7 +3578,7 @@ input, select, textarea {
 
 			#header .logo:hover {
 				border-color: #18bfef !important;
-				color: #18bfef !important;
+				color: inherit !important;
 			}
 
 		@media screen and (max-width: 980px) {
